@@ -199,8 +199,6 @@ If a feature needs more than ~300 lines to explain, it probably belongs in a lay
 
 ## Acknowledgements
 
-- [TinyCode](https://github.com/helsome/tinycode) by helsome — the original project this
-  repository is a derivative of; the base harness is their work, MIT-licensed.
 - [Pi](https://github.com/earendil-works/pi) by Earendil — runtime foundation and the best
   reference implementation of a modern coding agent.
 - [MiniCode](https://github.com/LiuMengxuan04/MiniCode) — inspiration for the
