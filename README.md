@@ -4,7 +4,7 @@
 
 **A minimal but complete Coding Agent Harness — the readable way to learn how coding agents actually work.**
 
-[![CI](https://github.com/helsome/tinycode/actions/workflows/ci.yml/badge.svg)](https://github.com/helsome/tinycode/actions/workflows/ci.yml)
+[![Repo](https://img.shields.io/badge/GitHub-Aling33%2Ftinycode-24292f?logo=github)](https://github.com/Aling33/tinycode)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Node](https://img.shields.io/badge/node-%E2%89%A522.19-brightgreen)](./package.json)
 [![Tests](https://img.shields.io/badge/tests-115%20passing-success)](./tests)
@@ -84,7 +84,7 @@ offline against a scripted model.
 ## Quick start
 
 ```bash
-git clone https://github.com/helsome/tinycode.git
+git clone https://github.com/Aling33/tinycode.git
 cd tinycode && npm install && npm run build
 ```
 
@@ -199,6 +199,8 @@ If a feature needs more than ~300 lines to explain, it probably belongs in a lay
 
 ## Acknowledgements
 
+- [TinyCode](https://github.com/helsome/tinycode) by helsome — the original project this
+  repository is a derivative of; the base harness is their work, MIT-licensed.
 - [Pi](https://github.com/earendil-works/pi) by Earendil — runtime foundation and the best
   reference implementation of a modern coding agent.
 - [MiniCode](https://github.com/LiuMengxuan04/MiniCode) — inspiration for the
